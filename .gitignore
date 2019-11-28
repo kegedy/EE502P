@@ -1,3 +1,9 @@
 *~
+<<<<<<< HEAD
 hw/kevin/.ipynb_checkpoints
 .ipynb_checkpoints
+=======
+/tmp
+/fashionmnist
+/mnist-in-csv
+>>>>>>> ad3d1414d9e7015e9e0def82ebb9dc3644e64de0
